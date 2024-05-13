@@ -15,7 +15,7 @@ Please feel free to message me for any questions or suggestions.
 - Course Website: [Data Structures and Algorithms, spring 2024](https://tira.mooc.fi/spring-2024/)
 - Exercise Website: [Exercises on Code Submission Evaluation System](https://cses.fi/dsa24k/list/)
 
-## How This Repo is Structured
+## Repo Structure
 
 ```bash
 |-- 0. General Algorithms.py
