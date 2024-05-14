@@ -19,10 +19,10 @@ Please feel free to message me for any questions or suggestions.
 
 ```bash
 |-- 0. General Algorithms.py
-|-- 1. Introduction.ipynb
+|-- 1. Introduction.ipynb   
 |-- 2. List.ipynb
-|-- 2a. Adding elements to list.ipynb
-|-- 3. Efficient algorithms.ipynb    
+|-- 2a. Adding elements to list.ipynb   
+|-- 3. Efficient algorithms.ipynb       
 |-- 4. Hashing.ipynb
 |-- 5. Sorting.ipynb
 |-- Exercises
@@ -64,6 +64,11 @@ Please feel free to message me for any questions or suggestions.
 |       |-- 21 - List split.ipynb
 |       |-- 22 - Tira sequences.ipynb
 |       |-- 23 - Last number.ipynb
-|       `-- 24 - Stock trading.ipynb
+|       |-- 24 - Stock trading.ipynb
+|       |-- forbidden.py
+|       |-- listsplit.py
+|       |-- onlyone.py
+|       |-- samebit.py
+|       `-- samechar.py
 `-- README.md
 ```
