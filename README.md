@@ -21,8 +21,8 @@ Please feel free to message me for any questions or suggestions.
 |-- 0. General Algorithms.py
 |-- 1. Introduction.ipynb   
 |-- 2. List.ipynb
-|-- 2a. Adding elements to list.ipynb   
-|-- 3. Efficient algorithms.ipynb       
+|-- 2a. Adding elements to list.ipynb
+|-- 3. Efficient algorithms.ipynb    
 |-- 4. Hashing.ipynb
 |-- 5. Sorting.ipynb
 |-- Exercises
@@ -56,19 +56,42 @@ Please feel free to message me for any questions or suggestions.
 |   |   |-- nestedlist.py
 |   |   |-- sumdiff.py
 |   |   `-- twolists.py
-|   `-- Week 3
-|       |-- 17 - Same bit.ipynb
-|       |-- 18 - Same character.ipynb
-|       |-- 19 - Forbidden character.ipynb
-|       |-- 20 - Lone number.ipynb
-|       |-- 21 - List split.ipynb
-|       |-- 22 - Tira sequences.ipynb
-|       |-- 23 - Last number.ipynb
-|       |-- 24 - Stock trading.ipynb
-|       |-- forbidden.py
-|       |-- listsplit.py
-|       |-- onlyone.py
-|       |-- samebit.py
-|       `-- samechar.py
+|   |-- Week 3
+|   |   |-- 17 - Same bit.ipynb
+|   |   |-- 18 - Same character.ipynb
+|   |   |-- 19 - Forbidden character.ipynb
+|   |   |-- 20 - Lone number.ipynb
+|   |   |-- 21 - List split.ipynb
+|   |   |-- 22 - Tira sequences.ipynb
+|   |   |-- 23 - Last number.ipynb
+|   |   |-- 24 - Stock trading.ipynb
+|   |   |-- forbidden.py
+|   |   |-- lastnumber.py
+|   |   |-- listsplit.py
+|   |   |-- onlyone.py
+|   |   |-- samebit.py
+|   |   |-- samechar.py
+|   |   |-- sequences.py
+|   |   `-- trading.py
+|   |-- Week 4
+|   |   |-- 25 - Robot route.ipynb
+|   |   |-- 26 - No pair.ipynb
+|   |   |-- 27 - Same distance.ipynb
+|   |   |-- 28 - Play lists.ipynb
+|   |   |-- 29 - Big win.ipynb
+|   |   |-- 30 - Same hash.ipynb
+|   |   |-- 31 - Sublists.ipynb
+|   |   `-- 32 - Long route.ipynb
+|   `-- Week 5
+|       |-- 33 - Packing.ipynb
+|       |-- 34 - Contiguous numbers.ipynb
+|       |-- 35 - Sorting algorithms.ipynb
+|       |-- 36 - Binary search.ipynb
+|       |-- 37 - Largest distance.ipynb
+|       |-- 38 - Restaurant.ipynb
+|       |-- 39 - Semisorting.ipynb
+|       `-- 40 - Swap and move.ipynb
 `-- README.md
+
+6 directories, 68 files
 ```
