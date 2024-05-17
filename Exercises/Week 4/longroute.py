@@ -1,23 +1,15 @@
 def count(s, k):
-    visited = set()
-    visited.add((0,0))
-    y = x = 0
-    n = max(len(s) // 2 + 1, 5)
+    directions = {'U': (0, 1), 'D': (0, -1), 'R': (1,0), 'L': (-1, 0)}
+    position = {(0,0)}
+    pos = (0, 0)
+    r = max(len(s) // 2 + 1, 5)
     
-    diffs = []
-    
-    for i in range(n):
+    for _ in range(r):
+        old = len(position)
         for c in s:
-            if c == "U": y -= 1
-            if c == "D": y += 1
-            if c == "L": x -= 1
-            if c == "R": x += 1
-            visited.add((y,x))
-        diffs.append(len(visited))
-    
-    increments = []
-
-    for i in range(1, len(diffs)):
-        increments.append(diffs[i]-diffs[i-1])
-    
-    return (diffs[n-1] - increments[-1]) + (increments[-1]) *(k-(n-1))
+            pos = pos[0] + directions[c][0], pos[1] + directions[c][1]
+            position.add(pos)
+            
+        new = len(position)
+        
+    return new + (new - old)*(k - r) 
