@@ -126,8 +126,8 @@ def binary_search(arr, x):
             r = mid - 1
     return -1
 
-print(linear_search(arr, 8))
-arr[linear_search(arr, 8)]
+print(binary_search(arr, 8))
+arr[binary_search(arr, 8)]
 
 # Binary Search - 2
 
