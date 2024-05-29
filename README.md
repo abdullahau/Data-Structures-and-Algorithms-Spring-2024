@@ -19,12 +19,18 @@ Please feel free to message me for any questions or suggestions.
 
 ```bash
 |-- 0. General Algorithms.py
-|-- 1. Introduction.ipynb   
+|-- 1. Introduction.ipynb
 |-- 2. List.ipynb
 |-- 2a. Adding elements to list.ipynb
 |-- 3. Efficient algorithms.ipynb    
 |-- 4. Hashing.ipynb
-|-- 5. Sorting.ipynb
+|-- 4a. Hash table.ipynb    
+|-- 4b. Slow hashing.ipynb  
+|-- 5. Sorting.ipynb        
+|-- 5a. Insertion sort.ipynb
+|-- 5b. Merge sort.ipynb
+|-- 5c. Sorting lower bound.ipynb
+|-- 6. Own data structures.ipynb
 |-- Exercises
 |   |-- Week 1
 |   |   |-- 1 - Candies.ipynb
@@ -81,17 +87,48 @@ Please feel free to message me for any questions or suggestions.
 |   |   |-- 29 - Big win.ipynb
 |   |   |-- 30 - Same hash.ipynb
 |   |   |-- 31 - Sublists.ipynb
-|   |   `-- 32 - Long route.ipynb
-|   `-- Week 5
-|       |-- 33 - Packing.ipynb
-|       |-- 34 - Contiguous numbers.ipynb
-|       |-- 35 - Sorting algorithms.ipynb
-|       |-- 36 - Binary search.ipynb
-|       |-- 37 - Largest distance.ipynb
-|       |-- 38 - Restaurant.ipynb
-|       |-- 39 - Semisorting.ipynb
-|       `-- 40 - Swap and move.ipynb
-`-- README.md
+|   |   |-- 32 - Long route.ipynb
+|   |   |-- bigwin.py
+|   |   |-- longroute.py
+|   |   |-- nopair.py
+|   |   |-- playlists.py
+|   |   |-- robot.py
+|   |   |-- samedist.py
+|   |   |-- samehash.py
+|   |   `-- words.txt
+|   |-- Week 5
+|   |   |-- 33 - Packing.ipynb
+|   |   |-- 34 - Contiguous numbers.ipynb
+|   |   |-- 35 - Sorting algorithms.ipynb
+|   |   |-- 36 - Binary search.ipynb
+|   |   |-- 37 - Largest distance.ipynb
+|   |   |-- 38 - Restaurant.ipynb
+|   |   |-- 39 - Semisorting.ipynb
+|   |   |-- 40 - Swap and move.ipynb
+|   |   |-- distance.py
+|   |   |-- interval.py
+|   |   |-- packbox.py
+|   |   |-- restaurant.py
+|   |   |-- semisort.py
+|   |   `-- swapmove.py
+|   `-- Week 6
+|       |-- 41 - Max list.ipynb
+|       |-- 42 - Repeat list.ipynb
+|       |-- 43 - Fast mode.ipynb
+|       |-- 44 - Mex numbers.ipynb
+|       |-- 45 - Quick list.ipynb
+|       |-- 46 - Different repeats.ipynb
+|       |-- 47 - Sum of squares.ipynb
+|       |-- 48 - Near list.ipynb
+|       |-- fastmode.py
+|       |-- maxlist.py
+|       |-- mex.py
+|       |-- nearlist.py
+|       |-- quicklist.py
+|       |-- repeatlist.py
+|       |-- squaresum.py
+|       `-- trackrepeat.py
+|-- README.md
 
-6 directories, 68 files
+8 directories, 107 files
 ```
