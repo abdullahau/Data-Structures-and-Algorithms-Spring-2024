@@ -24,13 +24,46 @@ Please feel free to message me for any questions or suggestions.
 |-- 2a. Adding elements to list.ipynb
 |-- 3. Efficient algorithms.ipynb    
 |-- 4. Hashing.ipynb
-|-- 4a. Hash table.ipynb    
-|-- 4b. Slow hashing.ipynb  
-|-- 5. Sorting.ipynb        
+|-- 4a. Hash table.ipynb  
+|-- 4b. Slow hashing.ipynb
+|-- 5. Sorting.ipynb      
 |-- 5a. Insertion sort.ipynb
-|-- 5b. Merge sort.ipynb
+|-- 5b. Merge sort.ipynb    
 |-- 5c. Sorting lower bound.ipynb
 |-- 6. Own data structures.ipynb
+|-- 7. Trees and recursion.ipynb
+|-- CSES Problem Set
+|   |-- 0 - Introductory Problems
+|   |   |-- 0 - Weird Algorithm.ipynb
+|   |   |-- 1 - Missing Number.ipynb
+|   |   |-- 10 - Coin Piles.ipynb
+|   |   |-- 11 - Palindrome Reorder.ipynb
+|   |   |-- 12 - Gray Code.ipynb
+|   |   |-- 13 - Tower of Hanoi.ipynb
+|   |   |-- 2 - Repetitions.ipynb
+|   |   |-- 3 - Increasing Array.ipynb
+|   |   |-- 4 - Permutations.ipynb
+|   |   |-- 5 - Number Spiral.ipynb
+|   |   |-- 6 - Two Knights.ipynb
+|   |   |-- 7 - Two Sets.ipynb
+|   |   |-- 8 - Bit Strings.ipynb
+|   |   |-- 9 - Trailing Zeros.ipynb
+|   |   |-- bitstrings.py
+|   |   |-- graycode.py
+|   |   |-- hanoi.py
+|   |   |-- increasingarray.py
+|   |   |-- knights.py
+|   |   |-- missing.py
+|   |   |-- palindrome.py
+|   |   |-- permutations.py
+|   |   |-- repetitions.py
+|   |   |-- spiral.py
+|   |   |-- trailingzeros.py
+|   |   |-- twosets.py
+|   |   `-- weird.py
+|   |-- Antti Laaksonen - Guide to Competitive Programming - Learning and Improving Algorithms Through Contests.pdf
+|   |-- Competitive Programmer's Handbook.pdf
+|   `-- Introduction.md
 |-- Exercises
 |   |-- Week 1
 |   |   |-- 1 - Candies.ipynb
@@ -95,6 +128,7 @@ Please feel free to message me for any questions or suggestions.
 |   |   |-- robot.py
 |   |   |-- samedist.py
 |   |   |-- samehash.py
+|   |   |-- sublists.py
 |   |   `-- words.txt
 |   |-- Week 5
 |   |   |-- 33 - Packing.ipynb
@@ -111,24 +145,51 @@ Please feel free to message me for any questions or suggestions.
 |   |   |-- restaurant.py
 |   |   |-- semisort.py
 |   |   `-- swapmove.py
-|   `-- Week 6
-|       |-- 41 - Max list.ipynb
-|       |-- 42 - Repeat list.ipynb
-|       |-- 43 - Fast mode.ipynb
-|       |-- 44 - Mex numbers.ipynb
-|       |-- 45 - Quick list.ipynb
-|       |-- 46 - Different repeats.ipynb
-|       |-- 47 - Sum of squares.ipynb
-|       |-- 48 - Near list.ipynb
-|       |-- fastmode.py
-|       |-- maxlist.py
-|       |-- mex.py
-|       |-- nearlist.py
-|       |-- quicklist.py
-|       |-- repeatlist.py
-|       |-- squaresum.py
-|       `-- trackrepeat.py
+|   |-- Week 6
+|   |   |-- 41 - Max list.ipynb
+|   |   |-- 42 - Repeat list.ipynb
+|   |   |-- 43 - Fast mode.ipynb
+|   |   |-- 44 - Mex numbers.ipynb
+|   |   |-- 45 - Quick list.ipynb
+|   |   |-- 46 - Different repeats.ipynb
+|   |   |-- 47 - Sum of squares.ipynb
+|   |   |-- 48 - Near list.ipynb
+|   |   |-- fastmode.py
+|   |   |-- maxlist.py
+|   |   |-- mex.py
+|   |   |-- nearlist.py
+|   |   |-- quicklist.py
+|   |   |-- repeatlist.py
+|   |   |-- squaresum.py
+|   |   `-- trackrepeat.py
+|   `-- Week 7
+|       |-- 49 - Leaves.ipynb
+|       |-- 50 - No branch.ipynb
+|       |-- 51 - Children.ipynb
+|       |-- 52 - Depths.ipynb
+|       |-- 53 - Same depth.ipynb
+|       |-- 54 - Subtrees.ipynb
+|       |-- 55 - Queens.ipynb
+|       |-- 56 - All Trees.ipynb
+|       |-- alltree.py
+|       |-- depths.py
+|       |-- leaves.py
+|       |-- maxchild.py
+|       |-- nobranch.py
+|       |-- queens.py
+|       |-- samedepth.py
+|       `-- subtrees.py
 |-- README.md
+`-- Resources
+    |-- Backtracking.ipynb
+    |-- Binary Tree.ipynb
+    |-- Input & Output file txt in Bash.md
+    |-- Jupyter-Shortcuts.md
+    |-- Recursion for Beginners_ A Beginner's Guide to Recursion.pdf
+    |-- Recursion for Beginners_ A Beginner's Guide to Recursion.pptx
+    |-- Recursion.ipynb
+    |-- TimeComplexity - Python Wiki.md
+    |-- memoryallocation.py
 
-8 directories, 107 files
+12 directories, 165 files
 ```
